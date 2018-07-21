@@ -21,3 +21,5 @@
 # Code analysis files
 *.CodeAnalysisLog.xml
 *.lastcodeanalysissucceeded
+
+/.vs
